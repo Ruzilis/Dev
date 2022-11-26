@@ -4,7 +4,7 @@
 
 Примеры:
 - составления SQL-запросов;
-- создания [[https://drive.google.com/drive/folders/1hVdr6iRW-AotA91_vWBAIUzCiYAIMSck?usp=share_link|тест-кейсов и тестовых наборов]];
+- создания [https://drive.google.com/drive/folders/1hVdr6iRW-AotA91_vWBAIUzCiYAIMSck?usp=share_link](тест-кейсов и тестовых наборов);
 - составления тест-планов;
 - составления баг-репортов;
 - разработки требований.
