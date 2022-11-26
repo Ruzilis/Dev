@@ -1,10 +1,10 @@
 Тестовая документация
 ---
-Документация располагается на Google Drive и открывается онлайн редактором.
+Документацию можно просмотреть по ссылкам, ведущим на Google Drive.
 
 Примеры:
 - составления SQL-запросов;
-- создания [https://drive.google.com/drive/folders/1hVdr6iRW-AotA91_vWBAIUzCiYAIMSck?usp=share_link](тест-кейсов и тестовых наборов);
+- создания [тест-кейсов и тестовых наборов](https://drive.google.com/drive/folders/1hVdr6iRW-AotA91_vWBAIUzCiYAIMSck?usp=share_link);
 - составления тест-планов;
 - составления баг-репортов;
 - разработки требований.
