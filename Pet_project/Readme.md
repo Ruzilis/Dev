@@ -4,7 +4,7 @@ Genres: Puzzle, Platform, Physics, Indie, Casual, Adventure </p>
 Modes: Single-player, Shared/Split Screen PvP, Online PvP
 
 <p>Instruments: Unity, Blender.
-<p>Development stage: character prototyping, testing of basic mechanics.
+<p>Development stage: character prototyping, testing of the basic mechanics.
 
 <p> We use Configurable Joints in Unity because it is allow us to configure more than 40 configuration options of the model and create some interesting effects.
 
